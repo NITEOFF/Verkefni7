@@ -3,7 +3,7 @@
 ##Verkefnalysing
 #
 
-#Hlutverk
+##Hlutverk
 #
 
 ##Nemendur sem unnu verkefni
