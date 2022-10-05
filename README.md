@@ -1,15 +1,15 @@
-Skilaverkefni 1 VEFÞ1VG05AU-Hát
+# Skilaverkefni 1 VEFÞ1VG05AU-Hát
 
-Texti texti
+# Texti texti
 #
-VERKEFNALYSING
+# VERKEFNALYSING
 
-Texti texti
-#
-
-HLUTVERK
-
-Texti texti
+# Texti texti
 #
 
-Nemendur sem unnu verkefni - Artjom Pushkar |  Isar Örn Einarsson
+# HLUTVERK
+
+# Texti texti
+#
+
+# Nemendur sem unnu verkefni - Artjom Pushkar |  Isar Örn Einarsson
