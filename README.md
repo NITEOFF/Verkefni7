@@ -7,4 +7,5 @@ HLUTVERK
 #
 
 Nemendur sem unnu verkefni
-#Artjom Pushkar |  Isar Örn Einarsson
+#
+Artjom Pushkar |  Isar Örn Einarsson
