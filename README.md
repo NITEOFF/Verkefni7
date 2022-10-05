@@ -6,4 +6,4 @@ VERKEFNALYSING
 HLUTVERK
 #
 
-Nemendur sem unnu verkefni - (Artjom Pushkar |  Isar Örn Einarsson)
+Nemendur sem unnu verkefni - Artjom Pushkar |  Isar Örn Einarsson
