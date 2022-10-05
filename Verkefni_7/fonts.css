@@ -1,9 +1,0 @@
-.names, .textifot, .box1, .box2, .link1, .tbyss1, .heavy{
-    font-family: monospace
-}
-
-@font-face {
-    font-family: 'csgofont';
-    src: url('cs.ttf');
-}
-
